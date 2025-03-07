@@ -35,7 +35,7 @@ const members = [
     ]
   },
     {
-    avatar: "/images/nmarques.png",
+    avatar: "https://media.licdn.com/dms/image/v2/C4E03AQF-Tk8kZ_suxQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1654776908119?e=1746662400&v=beta&t=6vTsMjbZUUgU0CcKknxt1XBc49PPJtZLSOVwORxCB0c",
     name: 'Nuno Marques',
     title: 'Creator',
     links: [
