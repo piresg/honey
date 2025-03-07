@@ -26,7 +26,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: '/images/gpires.png',
+    avatar: 'https://media.licdn.com/dms/image/v2/D4E03AQFe1c1fYGMkjg/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1669229782572?e=1746662400&v=beta&t=A5R3tnR2-EvIVclHNeN63nIoMXK4gNIu83cGJU9_uQA',
     name: 'Gonçalo Pires',
     title: 'Creator',
     links: [
@@ -35,7 +35,7 @@ const members = [
     ]
   },
     {
-    avatar: '/images/nmarques.png',
+    avatar: "/images/nmarques.png",
     name: 'Nuno Marques',
     title: 'Creator',
     links: [
