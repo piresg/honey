@@ -65,7 +65,6 @@ const members = [
     ]
   },
    
-
 ]
 </script>
 
