@@ -55,6 +55,15 @@ const members = [
    
     ]
   },
+      {
+    avatar: "https://media.licdn.com/dms/image/v2/D4D03AQE0xPkcdDBo5A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702580571541?e=1746662400&v=beta&t=pxqGoI-whE8vHeiGS3uHEH6sLPKDakdb5LEfY5NOeSk",
+    name: 'José Gonçalves',
+    title: 'Creator',
+    links: [
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/josegoncalves13/' },
+   
+    ]
+  },
    
 
 ]
@@ -63,4 +72,4 @@ const members = [
 ## Contributors
 
 
-<VPTeamMembers size="medium" :members="members" />
+<VPTeamMembers size="small" :members="members" />
