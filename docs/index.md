@@ -18,6 +18,18 @@ hero:
       text: Cortex Cloud
       link: /cortex/cortex
 
+features:
+  - icon: 🛠️
+    title: PANOSS
+    link: 'https://paoss.insecure.pt'
+    linkText: 'learn more'
+    details: Feature
+  - icon: 🔥
+    title: Palo Alto Networks 
+    link: 'https://docs.paloaltonetworks.com/'
+    linkText: 'Official documentation'
+    details: Documentation
+
 
 ---
 
@@ -51,4 +63,4 @@ const members = [
 ## Contributors
 
 
-<VPTeamMembers size="small" :members="members" />
+<VPTeamMembers size="medium" :members="members" />

@@ -3,9 +3,15 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "{in)secure",
+  lang: 'en-US',
   description: "Documentation",
+  
+    lastUpdated: true,
+  
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+
+    
 
     nav: [
       { text: 'Home', link: '/' },
@@ -16,6 +22,7 @@ export default defineConfig({
     search: {
       provider: "local",
     },
+ 
 
     sidebar: {
       '/sase/': [
@@ -42,6 +49,11 @@ export default defineConfig({
 
         }
       ]
+    },
+
+    footer: {
+      message: 'Please always use offical documentation, this is a community page.',
+      copyright: 'Copyleft © 2025'
     }
   },
 
