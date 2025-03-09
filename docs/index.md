@@ -13,7 +13,7 @@ hero:
       link: /sase/sase
     - theme: brand
       text: PAN-OS
-      link: /panos/panos
+      link: /panos/userid
     - theme: brand
       text: Cortex Cloud
       link: /cortex/cortex
@@ -64,6 +64,7 @@ const members = [
    
     ]
   },
+  
    
 ]
 </script>
