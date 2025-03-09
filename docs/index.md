@@ -64,7 +64,15 @@ const members = [
    
     ]
   },
-  
+        {
+    avatar: "https://media.licdn.com/dms/image/v2/C4D03AQFZkEPWXKuraQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1615828278649?e=1747267200&v=beta&t=5NcHrZCosgQLhLTkItqXaPt4rSW9jgfXdgWehCMAhHI",
+    name: 'Luis Trincheiras',
+    title: 'Creator',
+    links: [
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/luis-trincheiras/' },
+   
+    ]
+  },
    
 ]
 </script>
