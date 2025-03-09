@@ -19,7 +19,7 @@ hero:
       link: /cortex/cortex
 
 features:
-  - icon: 🛠️
+  - icon: 🧰
     title: PANOSS
     link: 'https://paoss.insecure.pt'
     linkText: 'learn more'
