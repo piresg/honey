@@ -42,7 +42,7 @@ const members = [
     name: 'Gonçalo Pires',
     title: 'Creator',
     links: [
-      { icon: 'linkedin', link: 'https://www.linkedin.com/in/piresg/' },
+      { icon: 'linkedin', link: 'https://media.licdn.com/dms/image/v2/D4D03AQGa2VJvoVx5Qw/profile-displayphoto-scale_200_200/B4DZkaBsnkIEAw-/0/1757078277380?e=1764201600&v=beta&t=CcuxuzFmEs2Ur3yy5aFjX9Px4tvjKzeBS1dhrQ3rR9g' },
    
     ]
   }   
